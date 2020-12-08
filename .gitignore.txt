@@ -1,5 +1,0 @@
-**/model/dataset/
-**/model/test_images/
-**/server/test_images/
-**/UI/test_images/
-**/UI/images/
